@@ -68,6 +68,6 @@ Feel free to contribute to this project by opening issues or submitting pull req
 
 ## Acknowledgments
 
-- Thanks to the ThinkOnward competition for providing the platform to showcase our work.
+- Thanks to the ThinkOnward for providing the platform to showcase our work.
 - Acknowledgment to the open-source community for the tools and libraries used in this project.
 
